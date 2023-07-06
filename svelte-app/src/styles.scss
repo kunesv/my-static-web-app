@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  font: 16px/1.618rem "Roboto Condensed", sans-serif;
+  font: 16px/1.618rem Arial, "Roboto Condensed", sans-serif;
   background: white;
 }
 
@@ -49,15 +49,20 @@ html, body {
 }
 
 #body-text {
+  min-height: 100vh;
+  padding: 5vh 10vw;
   display: flex;
   height: 50vh;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #000c;
 }
-#body-text div {
-  max-width: 24rem;
+#body-text p {
+  max-width: 36rem;
   font-size: 1rem;
   font-weight: 100;
-  padding: 5vw 5vw 0;
+
 }
 #body-text div:last-child {
   padding-bottom: 5vw;
