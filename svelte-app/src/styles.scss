@@ -44,7 +44,8 @@ html, body {
 #image-bar {
   height: 100vh;
   width: 100%;
-  background: no-repeat url("");
+  background: no-repeat url("/assets/bg2-countryside.jpg") center;
+  background-size: cover;
 }
 
 #body-text {
