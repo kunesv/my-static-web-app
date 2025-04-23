@@ -37,7 +37,7 @@
 
 
 <section id="body-text">
-  <p>SPRINTERS is a family business that specializes in delivering fast and reliable solutions for your needs. Whether you need a website, a logo, a marketing campaign, or anything else, we are here to help you achieve your goals.</p>
+  <p>SPRINTERS is a family business that specializes in delivering fast and reliable solutions for your needs.</p>
   <p>We are a team of passionate and creative professionals who love what we do. We have the skills, the experience, and the vision to turn your ideas into reality. We work with you every step of the way, from planning to execution, to ensure your satisfaction and success.</p>
   <p>At SPRINTERS, we believe that nothing is impossible. We are always ready to take on new challenges and exceed your expectations. We are not just a service provider, we are your partner in success. Contact us today and let us show you what we can do for you.</p>
 </section>
